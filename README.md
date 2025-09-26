@@ -3,4 +3,4 @@ Trata-se de um sistema simulando um aplicativo de transações financeiras. Esse
 da DIO. 
 
 ##  🔍Referência
-- [DIO]([https://git-scm.com/doc](https://web.dio.me/track/riachuelo-primeiros-passos-com-java))
+- [DIO]([https://git-scm.com/doc](https://web.dio.me/track/riachuelo-primeiros-passos-com-java)
